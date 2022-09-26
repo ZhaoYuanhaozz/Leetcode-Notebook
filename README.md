@@ -1,6 +1,5 @@
-![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/blob/main/Logo/leetcode.jpeg))
+![Image text](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/blob/main/Logo/leetcode.jpeg)
 
-# Leetcode-Notebook
 记录刷题之路，做题就会更新
 
 ## 目录
