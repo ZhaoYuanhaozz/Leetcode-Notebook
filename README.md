@@ -1,4 +1,4 @@
-![Image text](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/blob/main/Logo/leetcode.jpeg)
+<p align="center"><img width="40%" src="https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/blob/main/Logo/leetcode.jpeg" /></p>
 
 记录刷题之路，做题就会更新
 
