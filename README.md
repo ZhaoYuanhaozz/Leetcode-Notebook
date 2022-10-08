@@ -13,3 +13,4 @@
 ### [7.模拟题意](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/tree/main/%E6%A8%A1%E6%8B%9F%E9%A2%98%E6%84%8F)
 ### [8.深度优先搜索](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/tree/main/%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%85%88%E6%90%9C%E7%B4%A2)
 ### [9.动态规划](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/tree/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+### [10.贪心算法](https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/tree/main/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
