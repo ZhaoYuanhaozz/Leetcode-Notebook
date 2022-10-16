@@ -1,6 +1,6 @@
 <p align="center"><img width="40%" src="https://github.com/ZhaoYuanhaozz/Leetcode-Notebook/blob/main/Logo/leetcode.jpeg" /></p>
 
-记录刷题之路，做题就会更新
+记录刷题之路,希望大家和我一起学习。
 
 ## 目录
 
